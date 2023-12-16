@@ -1,0 +1,75 @@
+{
+  "cars": [
+    {
+      "title": "FORD MUSTANG GT COUPE 2D",
+      "mileage": "18,514 miles",
+      "transmission": "AUTO, 6-SPD SELECTSHIFT",
+      "MPG": "15 CITY / 24 HWY",
+      "fuelType": "GAS",
+      "driveTrain": "RWD",
+      "Engine": "V8, 5.0 LITER"
+    },
+    {
+      "title": "TOYOTA CAMRY SE SEDAN 4D",
+      "mileage": "104,873 miles",
+      "transmission": "AUTO, 6-SPD SEQSHFT",
+      "MPG": "25 CITY / 35 HWY",
+      "fuelType": "GAS",
+      "driveTrain": "FWD",
+      "Engine": "4-CYL, 2.5 LITER",
+      "year": "2016",
+      "image": {
+        "front": "./images/carmy/front.webp",
+        "interior": "./images/carmy/interior.jpg",
+        "steering-cabin": "./images/carmy/steering-cabin.jpg"
+      }
+    },
+    {
+      "title": "DODGE CHARGER SCAT PACK WIDEBODY SEDAN 4D",
+      "mileage": "32,887 miles",
+      "transmission": "AUTOMATIC, 8-SPD W/AUTOSTICK",
+      "MPG": "15 CITY / 24 HWY",
+      "fuelType": "GAS",
+      "driveTrain": "RWD",
+      "Engine": "V8, HEMI, 6.4 LITER",
+      "year": "2023",
+      "image": {
+        "front": "./images/dodge/front.avif",
+        "back": "./images/dodge/back.jpg",
+        "interior": "./images/dodge/interior.jpg",
+        "side": "./images/dodge/side.avif"
+      }
+    },
+    {
+      "title": "BUICK ENVISTA SUV",
+      "mileage": "38,171 miles",
+      "transmission": "AUTOMATIC, 6-SPD W/OVERDRIVE & SHIFT CONTROL",
+      "MPG": "18 CITY / 28 HWY",
+      "fuelType": "GAS",
+      "driveTrain": "FWD",
+      "Engine": "V6, 3.6 LITER",
+      "year": "2023",
+      "image": {
+        "front": "./images/envista/front.avif",
+        "side": "./images/envista/side.avif",
+        "top": "./images/envista/top.avif",
+        "interior": "./images/envista/interior.avif"
+      }
+    },
+    {
+      "title": "GLC 300 SUV",
+      "mileage": "1,000 miles",
+      "MPG": "25 CITY / 32 HWY",
+      "fuelType": "GAS",
+      "driveTrain": "RWD",
+      "Engine": "2.0L Inline-4 turbo with mild hybrid drive",
+      "transmission": "AUTOMATIC, 9G-TRONIC",
+      "year": "2023",
+      "image": {
+        "front": "./images/glc/front.jpg",
+        "back": "./images/glc/back.webp",
+        "interior": "./images/glc/interior.jpg"
+      }
+    }
+  ]
+}
